@@ -43,23 +43,28 @@ The application creates an **interactive performance stage** in your physical sp
 
 ## 📸 Visual Showcase    
 
-### 🖼️ Screenshots (4 PNGs)  
-![Screenshot 1](Assets/Images/screenshot1.png)  
-![Screenshot 2](Assets/Images/screenshot2.png)  
-![Screenshot 3](Assets/Images/screenshot3.png)  
-![Screenshot 4](Assets/Images/screenshot4.png)  
-
 ### 🎞️ GIFs (2)  
-![Dance GIF 1](Assets/GIFs/dance1.gif)  
-![Dance GIF 2](Assets/GIFs/dance2.gif)  
+![Dance GIF 1]([Assets/GIFs/dance1.gif](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif))  
+![Dance GIF 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif)  
+
+
+### 🖼️ Screenshots (4 PNGs)  
+![Screenshot 1](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap1.png)  
+![Screenshot 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap2.png)  
+![Screenshot 3](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap3.png)  
+![Screenshot 4](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/mocap4.png)  
+
+
 
 ### 📹 Video Demos  
-[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/aJrw8ewi298?feature=shared)
-[![Demo Video 1](https://img.youtube.com/vi/XXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXX)  
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/w--Btr6QoQ0?si=fpjH3fQxe26kzbMT)
 
-[![Demo Video 2](https://img.youtube.com/vi/YYYYYYYY/0.jpg)](https://www.youtube.com/watch?v=YYYYYYYY)  
 
-[![Demo Video 3](https://img.youtube.com/vi/ZZZZZZZZ/0.jpg)](https://www.youtube.com/watch?v=ZZZZZZZZ)  
+[![Demo Video 1](https://img.youtube.com/vi/XXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=_DYpus8Dj0A)  
+
+[![Demo Video 2](https://img.youtube.com/vi/YYYYYYYY/0.jpg)](https://youtu.be/1-fr6itXKt0?si=BrruzXeYpaH-kurO)  
+
+[![Demo Video 3](https://img.youtube.com/vi/ZZZZZZZZ/0.jpg)](https://youtu.be/w--Btr6QoQ0?si=fpjH3fQxe26kzbMT)  
  
 
 ---
@@ -81,9 +86,3 @@ An XR enthusiast. With experience in Mixed Reality, Virtual Reality development,
 
 ---
 
-
----
-
-## 📜 License  
-
-This project is licensed under the [MIT License](LICENSE).  
