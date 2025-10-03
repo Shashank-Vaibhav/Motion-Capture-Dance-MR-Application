@@ -18,7 +18,8 @@ The application creates an **interactive performance stage** in your physical sp
 - 🎭 **Immersive MR Room Integration** – Dance stages blend seamlessly with the user’s real-world environment.  
 - 🖐️ **XR Interaction** – Uses Unity’s **XR Interaction Toolkit** for intuitive controls and interactions.  
 - 🎶 **Dynamic Performances** – Supports choreographed sequences synced with background music.  
-- 📱 **Meta Quest Support** – Designed specifically for standalone Quest devices.  
+- 📱 **Meta Quest Support** – Designed specifically for standalone Quest devices.
+- 🕺 **Motion Sensors** – OptiTrack system.  
 
 ---
 
