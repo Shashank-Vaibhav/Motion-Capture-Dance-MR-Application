@@ -95,8 +95,12 @@ The application creates an **interactive performance stage** in your physical sp
 
 **Shashank Vaibhav**  
 An XR enthusiast. With experience in Mixed Reality, Virtual Reality development, immersive UI/UX design , I aim to combine innovative technology with education, gaming and entertainment.  
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankvaibhav/)
-- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-Vaibhav)
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankvaibhav/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-Vaibhav)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://shashankvaibhav3.artstation.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shashank_v@es.iitr.ac.in)
 
 ---
 
