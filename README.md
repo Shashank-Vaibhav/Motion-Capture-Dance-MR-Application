@@ -19,20 +19,26 @@ The application creates an **interactive performance stage** in your physical sp
 - 🖐️ **XR Interaction** – Uses Unity’s **XR Interaction Toolkit** for intuitive controls and interactions.  
 - 🎶 **Dynamic Performances** – Supports choreographed sequences synced with background music.  
 - 📱 **Meta Quest Support** – Designed specifically for standalone Quest devices.  
-- 🔮 **Scalable Showcase** – Can extend to different motion capture datasets and performance scenarios.  
 
 ---
 
 ## 🛠️ Tools & Libraries  
 
-- **Game Engine:** [Unity 2021+](https://unity.com/)  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Meta Quest](https://img.shields.io/badge/Meta%20Quest-4267B2?style=for-the-badge&logo=meta&logoColor=white)
+![Horizon OS](https://img.shields.io/badge/Horizon%20OS-FF5E5F?style=for-the-badge&logo=Oculus&logoColor=white)
+![OpenXR](https://img.shields.io/badge/OpenXR-FF2D55?style=for-the-badge&logo=OpenXR&logoColor=white)
+- **Game Engine:** [Unity3D](https://unity.com/)  
 - **XR SDKs:**  
   - Unity XR Interaction Toolkit  
   - Meta XR SDK (for Quest integration)  
 - **Animation:** Motion Capture Dance Data Integration  
 - **Programming:** C#  
 - **3D Assets & Visualization:** Unity’s Animation & Avatar System  
-- **Version Control:** Git + GitHub  
+
 
 ---
 
@@ -51,7 +57,7 @@ Here’s a preview of the application in action (media will be added later):
 ![Dance GIF 2](Assets/GIFs/dance2.gif)  
 
 ### 📹 Video Demos  
-
+[![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/aJrw8ewi298?feature=shared)
 [![Demo Video 1](https://img.youtube.com/vi/XXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXX)  
 
 [![Demo Video 2](https://img.youtube.com/vi/YYYYYYYY/0.jpg)](https://www.youtube.com/watch?v=YYYYYYYY)  
@@ -71,7 +77,13 @@ Here’s a preview of the application in action (media will be added later):
 
 ## 👨‍💻 Authors  
 
-- **Shashank Vaibhav**  
+**Shashank Vaibhav**  
+An XR enthusiast. With experience in Mixed Reality, Virtual Reality development, immersive UI/UX design , I aim to combine innovative technology with education, gaming and entertainment.  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashankvaibhav/)
+- [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shashank-Vaibhav)
+
+---
+
 
 ---
 
