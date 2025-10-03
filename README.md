@@ -50,10 +50,14 @@ Here’s a preview of the application in action (media will be added later):
 ![Dance GIF 1](Assets/GIFs/dance1.gif)  
 ![Dance GIF 2](Assets/GIFs/dance2.gif)  
 
-### 📹 Videos (3)  
-[▶️ Demo Video 1](Assets/Videos/demo1.mp4)  
-[▶️ Demo Video 2](Assets/Videos/demo2.mp4)  
-[▶️ Demo Video 3](Assets/Videos/demo3.mp4)  
+### 📹 Video Demos  
+
+[![Demo Video 1](https://img.youtube.com/vi/XXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=XXXXXXXX)  
+
+[![Demo Video 2](https://img.youtube.com/vi/YYYYYYYY/0.jpg)](https://www.youtube.com/watch?v=YYYYYYYY)  
+
+[![Demo Video 3](https://img.youtube.com/vi/ZZZZZZZZ/0.jpg)](https://www.youtube.com/watch?v=ZZZZZZZZ)  
+ 
 
 ---
 
