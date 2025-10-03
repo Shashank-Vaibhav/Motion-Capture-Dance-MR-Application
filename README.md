@@ -34,17 +34,14 @@ The application creates an **interactive performance stage** in your physical sp
 - **Game Engine:** [Unity3D](https://unity.com/)  
 - **XR SDKs:**  
   - Unity XR Interaction Toolkit  
-  - Meta XR SDK (for Quest integration)  
 - **Animation:** Motion Capture Dance Data Integration  
 - **Programming:** C#  
-- **3D Assets & Visualization:** Unity’s Animation & Avatar System  
+- **3D Assets & Visualization:** Blender, Mixamo, Unity’s Animation & Avatar System  
 
 
 ---
 
-## 📸 Visual Showcase  
-
-Here’s a preview of the application in action (media will be added later):  
+## 📸 Visual Showcase    
 
 ### 🖼️ Screenshots (4 PNGs)  
 ![Screenshot 1](Assets/Images/screenshot1.png)  
