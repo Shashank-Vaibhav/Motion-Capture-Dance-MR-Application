@@ -44,8 +44,8 @@ The application creates an **interactive performance stage** in your physical sp
 ## 📸 Visual Showcase    
 
   
-(https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif) 
-(https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif)  
+![Dance GIF 1](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif) 
+![Dance GIF 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif)  
 
 
 
