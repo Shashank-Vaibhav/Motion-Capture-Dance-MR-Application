@@ -43,16 +43,22 @@ The application creates an **interactive performance stage** in your physical sp
 
 ## 📸 Visual Showcase    
 
-  
-![Dance GIF 1](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif) 
-![Dance GIF 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif)  
+<p align="center">
+  <img src="https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif" width="45%" />
+  <img src="https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif" width="45%" />
+</p>
 
 
 
-![Screenshot 1](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap1.png)  
-![Screenshot 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap2.png)  
-![Screenshot 3](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap3.png)  
-![Screenshot 4](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/mocap4.png)  
+<p align="center">
+  <img src="https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap1.png" width="45%" />
+  <img src="https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap2.png" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap3.png" width="45%" />
+  <img src="https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/mocap4.png" width="45%" />
+</p>
+
 
 
 
@@ -60,11 +66,18 @@ The application creates an **interactive performance stage** in your physical sp
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/w--Btr6QoQ0?si=fpjH3fQxe26kzbMT)
 
 
-[![Demo Video 1](https://img.youtube.com/vi/XXXXXXXX/0.jpg)](https://www.youtube.com/watch?v=_DYpus8Dj0A)  
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=_DYpus8Dj0A">
+    <img src="https://img.youtube.com/vi/_DYpus8Dj0A/0.jpg" width="30%" />
+  </a>
+  <a href="https://youtu.be/1-fr6itXKt0">
+    <img src="https://img.youtube.com/vi/1-fr6itXKt0/0.jpg" width="30%" />
+  </a>
+  <a href="https://youtu.be/w--Btr6QoQ0">
+    <img src="https://img.youtube.com/vi/w--Btr6QoQ0/0.jpg" width="30%" />
+  </a>
+</p>
 
-[![Demo Video 2](https://img.youtube.com/vi/YYYYYYYY/0.jpg)](https://youtu.be/1-fr6itXKt0?si=BrruzXeYpaH-kurO)  
-
-[![Demo Video 3](https://img.youtube.com/vi/ZZZZZZZZ/0.jpg)](https://youtu.be/w--Btr6QoQ0?si=fpjH3fQxe26kzbMT)  
  
 
 ---
