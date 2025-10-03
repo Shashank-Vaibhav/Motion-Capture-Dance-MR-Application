@@ -43,12 +43,12 @@ The application creates an **interactive performance stage** in your physical sp
 
 ## 📸 Visual Showcase    
 
-### 🎞️ GIFs (2)  
-![Dance GIF 1]([Assets/GIFs/dance1.gif](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif))  
-![Dance GIF 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif)  
+  
+(https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/gif1.gif) 
+(https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Gif2.gif)  
 
 
-### 🖼️ Screenshots (4 PNGs)  
+
 ![Screenshot 1](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap1.png)  
 ![Screenshot 2](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap2.png)  
 ![Screenshot 3](https://github.com/Shashank-Vaibhav/Motion-Capture-Dance-MR-Application/blob/44fa53ef0f0cb9943e8b44e13e2ad2b5400b5213/ReadmeAssets/Mocap3.png)  
